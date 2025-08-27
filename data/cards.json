@@ -1,0 +1,86 @@
+[
+    {
+      "id": "edu-workshop-001",
+      "title": "Study Sprint Lab",
+      "one_line_hook": "Host a 30-min peer workshop to stress-test one study tactic.",
+      "tags": { "domain": ["Education"], "format": ["Workshop"], "audience": ["My school"], "visibility": ["Written-only"], "novelty": "Practical" },
+      "boundaries_ok": { "budget_ok": true, "travel_ok": true, "school_ok": true, "device_ok": true, "social_ok": true },
+      "standout_reason": "Solves a real pain; repeatable at any school.",
+      "example_link": ""
+    },
+    {
+      "id": "edu-workshop-002",
+      "title": "Note Doctor",
+      "one_line_hook": "Run a clinic that turns messy notes into exam-ready outlines.",
+      "tags": { "domain": ["Education"], "format": ["Workshop"], "audience": ["My school","Younger students"], "visibility": ["On-camera","Written-only"], "novelty": "Balanced" },
+      "boundaries_ok": { "budget_ok": true, "travel_ok": true, "school_ok": true, "device_ok": true, "social_ok": true },
+      "standout_reason": "High impact with simple materials.",
+      "example_link": ""
+    },
+    {
+      "id": "edu-workshop-003",
+      "title": "AI Study Hacks Live",
+      "one_line_hook": "Demo prompt patterns for planning, quizzing, and reviewing.",
+      "tags": { "domain": ["Education"], "format": ["Workshop"], "audience": ["My school","Teachers"], "visibility": ["On-camera"], "novelty": "Bold" },
+      "boundaries_ok": { "budget_ok": true, "travel_ok": true, "school_ok": true, "device_ok": true, "social_ok": true },
+      "standout_reason": "Trendy topic; clear artifact (slides).",
+      "example_link": ""
+    },
+  
+    {
+      "id": "ent-mini-001",
+      "title": "Local Brand Audit 101",
+      "one_line_hook": "Four micro-lessons; practice by auditing one nearby shop.",
+      "tags": { "domain": ["Entrepreneurship"], "format": ["Mini-course"], "audience": ["Local community","Online niche"], "visibility": ["Written-only","Voice-only"], "novelty": "Practical" },
+      "boundaries_ok": { "budget_ok": true, "travel_ok": true, "school_ok": true, "device_ok": true, "social_ok": true },
+      "standout_reason": "Apply frameworks to real businesses; publishable summary.",
+      "example_link": ""
+    },
+    {
+      "id": "ent-mini-002",
+      "title": "Caption Lab",
+      "one_line_hook": "Mini-course on A/B testing Instagram captions for reach.",
+      "tags": { "domain": ["Entrepreneurship"], "format": ["Mini-course"], "audience": ["Local community","Online niche"], "visibility": ["Behind-the-scenes","Written-only"], "novelty": "Balanced" },
+      "boundaries_ok": { "budget_ok": true, "travel_ok": true, "school_ok": true, "device_ok": true, "social_ok": true },
+      "standout_reason": "Data-driven content skills; tangible examples.",
+      "example_link": ""
+    },
+    {
+      "id": "ent-mini-003",
+      "title": "Pricing Experiments 101",
+      "one_line_hook": "Teach simple pricing tests using school-store products.",
+      "tags": { "domain": ["Entrepreneurship"], "format": ["Mini-course"], "audience": ["My school","Teachers"], "visibility": ["On-camera","Written-only"], "novelty": "Bold" },
+      "boundaries_ok": { "budget_ok": true, "travel_ok": true, "school_ok": true, "device_ok": true, "social_ok": true },
+      "standout_reason": "Hands-on micro-economics with real results.",
+      "example_link": ""
+    },
+  
+    {
+      "id": "impact-app-001",
+      "title": "Food-Waste Tracker",
+      "one_line_hook": "Simple sheet/app to log cafeteria waste and fixes.",
+      "tags": { "domain": ["Social Impact"], "format": ["App/Tool"], "audience": ["Local community","My school"], "visibility": ["Behind-the-scenes","Written-only"], "novelty": "Practical" },
+      "boundaries_ok": { "budget_ok": true, "travel_ok": true, "school_ok": true, "device_ok": true, "social_ok": true },
+      "standout_reason": "Evidence-based impact; easy to share.",
+      "example_link": ""
+    },
+    {
+      "id": "impact-app-002",
+      "title": "Ramp Finder Map",
+      "one_line_hook": "Map accessible entrances and missing ramps in town.",
+      "tags": { "domain": ["Social Impact"], "format": ["App/Tool"], "audience": ["Local community","Nonprofits"], "visibility": ["On-camera","Written-only"], "novelty": "Balanced" },
+      "boundaries_ok": { "budget_ok": true, "travel_ok": true, "school_ok": true, "device_ok": true, "social_ok": true },
+      "standout_reason": "Clear visual; partner-friendly.",
+      "example_link": ""
+    },
+    {
+      "id": "impact-app-003",
+      "title": "Poster Maker for Library Events",
+      "one_line_hook": "Tiny web tool to generate readable event posters.",
+      "tags": { "domain": ["Social Impact"], "format": ["App/Tool"], "audience": ["Local community","Seniors"], "visibility": ["Behind-the-scenes","Written-only"], "novelty": "Bold" },
+      "boundaries_ok": { "budget_ok": true, "travel_ok": true, "school_ok": true, "device_ok": true, "social_ok": true },
+      "standout_reason": "Accessibility boost; quick to build with templates.",
+      "example_link": ""
+    }
+  ]
+  
