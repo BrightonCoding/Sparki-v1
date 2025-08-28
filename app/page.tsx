@@ -1,4 +1,6 @@
 import Link from "next/link";
+import Step from "../components/Step";
+import Card from "../components/Card";
 
 export default function HomePage() {
   return (
@@ -111,24 +113,5 @@ export default function HomePage() {
         </div>
       </footer>
     </>
-  );
-}
-
-// Inline components to keep everything contained
-function Step({ title, body }: { title: string; body: string }) {
-  return (
-    <div className="bg-white p-6 rounded-lg border border-[#E5E7EB] shadow-sm">
-      <h3 className="text-lg font-semibold text-[#0B1220] mb-3">{title}</h3>
-      <p className="text-base text-[#475569]">{body}</p>
-    </div>
-  );
-}
-
-function Card({ title, body }: { title: string; body: string }) {
-  return (
-    <div className="bg-white p-6 rounded-lg border border-[#E5E7EB] shadow-sm">
-      <h3 className="text-lg font-semibold text-[#0B1220] mb-3">{title}</h3>
-      <p className="text-base text-[#475569]">{body}</p>
-    </div>
   );
 }
